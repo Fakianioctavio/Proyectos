@@ -1,2 +1,2 @@
 # Proyectos
-repositorio deestinado a proyectos,teclab,maquetas
+repositorio deestinado a proyecto,maquetas
